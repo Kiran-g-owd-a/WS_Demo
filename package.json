@@ -1,0 +1,19 @@
+{
+  "name": "ws_demo",
+  "version": "1.0.0",
+  "description": "Sample demo node application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandeepk01/WS_Demo.git"
+  },
+  "author": "sandeep k",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sandeepk01/WS_Demo/issues"
+  },
+  "homepage": "https://github.com/sandeepk01/WS_Demo#readme"
+}
