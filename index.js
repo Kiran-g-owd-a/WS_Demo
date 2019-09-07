@@ -12,7 +12,7 @@ const app = express()
  * Express configuration.
  */
 app.set('host', process.env.OPENSHIFT_NODEJS_IP || '0.0.0.0');
-app.set('port', 8080);
+app.set('port', 8090);
 app.use(bodyParser.json());
 app.use(function (req, res, next) {
     res.removeHeader('X-Powered-By');
